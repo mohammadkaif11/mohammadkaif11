@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="400" src="https://avatarfiles.alphacoders.com/109/109618.png"  />
+  <img height="400" src="https://w0.peakpx.com/wallpaper/1021/487/HD-wallpaper-technology-code-programming-programmer.jpg"  />
 </div>
 
 ###
@@ -52,10 +52,7 @@
   <a href="https://www.instagram.com/mohammad.kaif._/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/moh/moh/blob/output/snake.svg" alt="Snake animation" />
 
 ###
